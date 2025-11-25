@@ -1,4 +1,4 @@
-# Ticket & Giveaway System Bot
+# Giveaway System Bot
 
 A professional and customizable Discord **Ticket & Giveaway System Bot**, built with clean structure, environment-based configuration, and full English support.  
 This README provides installation steps, configuration details, and usage instructions for deploying the bot on your server.
