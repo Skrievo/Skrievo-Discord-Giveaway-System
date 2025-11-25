@@ -176,14 +176,6 @@ index.js
 README.md
 .env
 ```
-
----
-
-## 📝 License
-
-This project is provided without warranty.  
-You may modify it for private or community usage.
-
 ---
 
 ## ❤️ Credits
